@@ -2,4 +2,4 @@
 Collection of papers written for college classes. This contains most of the papers I wrote in my 5 years as an undergraduate student at Calvin University.
 
 ## Notes about usage
-You are free to use my work as inspiration if you give proper attribution (see [LICENSE.md]). However, I am definitely not a valid source to cite for an academic paper, and using my work without attribution is plagarism (and copyright, if I understand the license correctly).
+You are free to use my work as inspiration if you give proper attribution (see [LICENSE.md](License/LICENSE.md)). However, I am definitely not a valid source to cite for an academic paper, and using my work without attribution is plagarism (and copyright, if I understand the license correctly).
